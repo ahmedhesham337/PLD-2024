@@ -1,0 +1,12 @@
+C:\Users\ahmed\Desktop\uni - 2\pld\project\RustLikeParser\RustLikeParser\bin\Debug\RustLikeParser.exe
+C:\Users\ahmed\Desktop\uni - 2\pld\project\RustLikeParser\RustLikeParser\bin\Debug\RustLikeParser.pdb
+C:\Users\ahmed\Desktop\uni - 2\pld\project\RustLikeParser\RustLikeParser\bin\Debug\CalithaLib.dll
+C:\Users\ahmed\Desktop\uni - 2\pld\project\RustLikeParser\RustLikeParser\bin\Debug\GoldParserEngine.dll
+C:\Users\ahmed\Desktop\uni - 2\pld\project\RustLikeParser\RustLikeParser\obj\Debug\RustLikeParser.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\uni - 2\pld\project\RustLikeParser\RustLikeParser\obj\Debug\RustLikeParser.Form1.resources
+C:\Users\ahmed\Desktop\uni - 2\pld\project\RustLikeParser\RustLikeParser\obj\Debug\RustLikeParser.Properties.Resources.resources
+C:\Users\ahmed\Desktop\uni - 2\pld\project\RustLikeParser\RustLikeParser\obj\Debug\RustLikeParser.csproj.GenerateResource.cache
+C:\Users\ahmed\Desktop\uni - 2\pld\project\RustLikeParser\RustLikeParser\obj\Debug\RustLikeParser.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\uni - 2\pld\project\RustLikeParser\RustLikeParser\obj\Debug\RustLikeParser.csproj.CopyComplete
+C:\Users\ahmed\Desktop\uni - 2\pld\project\RustLikeParser\RustLikeParser\obj\Debug\RustLikeParser.exe
+C:\Users\ahmed\Desktop\uni - 2\pld\project\RustLikeParser\RustLikeParser\obj\Debug\RustLikeParser.pdb
